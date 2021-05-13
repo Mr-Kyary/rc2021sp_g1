@@ -1,7 +1,7 @@
 # 説明
 RUBY合宿2021春にて、DXrubyを用いたスクロールアクションを取り入れた音楽ゲームです。
 
-（ゲーム画面）
+## （ゲーム画面）
 ・操作キャラクターは上攻撃と下攻撃ができます。対応するキーはそれぞれQキーとAキーです。
 ・画面右側から流れてくる音符と判定位置の距離によって、得点を獲得できます。
 音符と判定位置が近い順に、
@@ -9,7 +9,9 @@ Great:1000点
 Good:500点
 Bad:100点
 となります。
-## 
+
+<img width="749" alt="playing_screen" src="https://user-images.githubusercontent.com/67830980/118154252-c9726480-b451-11eb-8666-5eacf9fd47cf.png">
+ 
 
 # rc2021sp_g1
 # RubyCamp2021Spring Group1　"Growers"
