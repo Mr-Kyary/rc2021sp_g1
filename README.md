@@ -11,16 +11,20 @@ Bad:100点
 となります。
 
 <img width="749" alt="playing_screen" src="https://user-images.githubusercontent.com/67830980/118154252-c9726480-b451-11eb-8666-5eacf9fd47cf.png">
- 
 
-# rc2021sp_g1
-# RubyCamp2021Spring Group1　"Growers"
+Original repository: https://github.com/RubyCamp/rc2021sp_g1
+
+
+
+# オリジナルのREADMEの内容
+## rc2021sp_g1
+## RubyCamp2021Spring Group1　"Growers"
 
 操作キャラクター:山本元柳斎重國（超シブいフォント）
 
-## キャラクター・背景
+### キャラクター・背景
     miyai
-## 使用楽曲
+### 使用楽曲
     □曲名：星屑サラウンド
     □作詞：白井舞
     □作曲： 龍崎一
@@ -29,6 +33,6 @@ Bad:100点
     音楽利用規約 https://dova-s.jp/_contents/license/
     サイト利用規約 https://dova-s.jp/_contents/agreement/
 
-## Special Thanks! 
+### Special Thanks! 
     本多さん
     太田さん
